@@ -1,0 +1,43 @@
+[
+    {
+     "img":"./img/kisspng-computer-cases-housings-gabinete-gamer-bluecase-pc-gamer-rtw-imperiums-i5-347-gtx-1-5-ti-4gb-5b6f822e82dca3.749300641534034478536.jpg", 
+     "Nombre":"Pc Armada Gamer Amd Ryzen 5 4600g 16gb Nvme 240 Radeon Vega",
+     "precio":"50000",
+     "id":"https://articulo.mercadolibre.com.ar/MLA-1145165467-pc-armada-gamer-amd-ryzen-5-4600g-8gb-ddr4-nvme-240-rx-vega-_JM?matt_tool=89591541&matt_word=&matt_source=google&matt_campaign_id=14508409412&matt_ad_group_id=138961807361&matt_match_type=&matt_network=g&matt_device=c&matt_creative=592038344529&matt_keyword=&matt_ad_position=&matt_ad_type=pla&matt_merchant_id=114358824&matt_product_id=MLA1145165467&matt_product_partition_id=1635979333123&matt_target_id=aud-415044759576:pla-1635979333123&gclid=EAIaIQobChMIzaiqk7Gz-gIVSeZcCh1L5QGbEAQYASABEgL7iPD_BwE" 
+    },
+
+    {
+     "img":"./img/Screenshot334.png",
+     "Nombre":"Pc Armada Gamer Amd Ryzen 5 4600g 8gb Ddr4 Nvme 240 Rx Vega",
+     "precio":"100000",
+     "id":"https://articulo.mercadolibre.com.ar/MLA-1160215179-pc-armada-gamer-amd-ryzen-5-4600g-16gb-ddr4-ssd-240-rx-vega-_JM?matt_tool=89591541&matt_word=&matt_source=google&matt_campaign_id=14508409412&matt_ad_group_id=138961807361&matt_match_type=&matt_network=g&matt_device=c&matt_creative=592038344529&matt_keyword=&matt_ad_position=&matt_ad_type=pla&matt_merchant_id=541520983&matt_product_id=MLA1160215179&matt_product_partition_id=1635979333123&matt_target_id=aud-415044759576:pla-1635979333123&gclid=EAIaIQobChMIo-rnw7Gz-gIVE-6RCh0mlg6XEAQYAiABEgK5PfD_BwE"
+    },
+
+    {
+     "img":"./img/png-transparent-megaport-pc-gamer-amd-fx-6100-gaming-computer-desktop-computers-computer-cases-housings-computer-electronics-computer-laptop.png",
+     "Nombre":"Pc Armada Gamer Amd A6-7480 3.8ghz Ssd 240g 4gb Win 10 64",
+     "precio":"90000",
+     "id":"https://articulo.mercadolibre.com.ar/MLA-614153630-pc-armada-gamer-amd-a6-7480-38ghz-ssd-240g-4gb-win-10-64-_JM#position=1&search_layout=grid&type=item&tracking_id=7ed06f2b-1b20-4b1a-9a6a-b10823890f7f"
+    },
+
+    {
+     "img":"./img/images.jpg",
+     "Nombre":"Mando xbox serie X blue",
+      "precio":"120000",
+     "id":"https://www.mercadolibre.com.ar/joystick-inalambrico-microsoft-xbox-wireless-controller-series-xs-shock-blue/p/MLA16268159#searchVariation=MLA16268159&position=1&search_layout=stack&type=product&tracking_id=3a2aa50a-98eb-45a1-8967-bc89edcdeec4"
+    },
+
+     {
+     "img":"./img/92f2864bb177a982e494d27d6483f864293e1d12818e929cb7f3b6bb1b1e57fd40357.png",
+     "Nombre":"Xbox serie X",
+     "precio":"75000",
+     "id":"https://www.mercadolibre.com.ar/microsoft-xbox-series-x-1tb-standard-color-negro/p/MLA16160759?pdp_filters=category:MLA438566#searchVariation=MLA16160759&position=3&search_layout=stack&type=product&tracking_id=73349aaa-9c0e-47c5-b06f-945bd6941d90"
+    },
+
+    {
+    "img":"./img/ps5dig-copia1-f074ebd07c2bca3d7515984983537986-1024-1024.png",
+    "Nombre":"Play Station 5",
+    "precio":"70000",
+    "id":"https://www.mercadolibre.com.ar/sony-playstation-5-825gb-standard-color-blanco-y-negro/p/MLA16171888?pdp_filters=category:MLA438566#searchVariation=MLA16171888&position=1&search_layout=stack&type=product&tracking_id=b63655a3-f186-41eb-834f-b6f82fd5b2af"
+    }
+]
